@@ -1,0 +1,12 @@
+{
+  "name": "moras-koc-creator-attribution-leakage-auditor-skill",
+  "version": "1.0.0",
+  "description": "Social commerce affiliate attribution auditor comparing last-touch vs time-decay multi-touch models to detect creator revenue leakage",
+  "author": "AlphaPark Engineering",
+  "license": "MIT",
+  "keywords": ["attribution-auditor", "creator-leakage", "multi-touch", "koc-agent", "mcp", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
